@@ -1,7 +1,7 @@
 {
-  "name": "bookmark-sync-server-sample",
+  "name": "bookmark-share-server-sample",
   "version": "1.0.0",
-  "description": "BookmarkSync Server Sample",
+  "description": "BookmarkShare Server Sample",
   "main": "index.js",
   "scripts": {
     "start": "node ."
