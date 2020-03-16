@@ -1,0 +1,61 @@
+{
+  "folder": {
+    "dateAdded": "2020-03-12T19:17:20.519Z",
+    "dateGroupModified": "2020-03-13T15:58:43.487Z",
+    "id": "17864",
+    "index": 10,
+    "parentId": "1",
+    "title": "Space Sync",
+    "children": [
+      {
+        "dateAdded": "2020-03-12T19:18:13.316Z",
+        "id": "17865",
+        "index": 0,
+        "parentId": "17864",
+        "title": "localhost:3003",
+        "url": "http://localhost:3003/"
+      },
+      {
+        "dateAdded": "2020-03-13T15:58:43.487Z",
+        "id": "17868",
+        "index": 2,
+        "parentId": "17864",
+        "title": "localhost:3003",
+        "url": "http://localhost:3003/"
+      },
+      {
+        "dateAdded": "2020-03-12T19:22:04.406Z",
+        "dateGroupModified": "2020-03-13T16:01:11.053Z",
+        "id": "17866",
+        "index": 1,
+        "parentId": "17864",
+        "title": "New folder",
+        "children": [
+          {
+            "dateAdded": "2020-03-13T16:01:11.053Z",
+            "id": "17869",
+            "index": 0,
+            "parentId": "17866",
+            "title": "localhost:3003",
+            "url": "http://localhost:3003/"
+          }
+        ],
+        "meta": {
+          "listening": false,
+          "sync": {
+            "enabled": false,
+            "url": null
+          },
+          "backup": {
+            "enabled": true,
+            "length": 3
+          }
+        }
+      }
+    ]
+  },
+  "edited": {
+    "date": "2020-03-13T16:01:47.956Z",
+    "user": ""
+  }
+}
