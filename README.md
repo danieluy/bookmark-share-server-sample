@@ -1,4 +1,4 @@
-# BookmarkSync Server Sample
+# BookmarkShare Server Sample
 
 ## DON'T use this server in production!
 
